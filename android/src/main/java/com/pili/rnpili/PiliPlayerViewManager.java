@@ -41,7 +41,7 @@ public class PiliPlayerViewManager extends SimpleViewManager<PLVideoView> implem
         LOADING("onLoading"),
         PAUSE("onPaused"),
         SHUTDOWN("onShutdown"),
-        ERROR("onError"),
+        ERROR("onError1"),
         PLAYING("onPlaying");
 
         private final String mName;

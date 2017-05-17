@@ -1,6 +1,6 @@
 {
   "name": "react-native-pili",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "description": "Pili Streaming Cloud React Native SDK",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/buhe/react-native-pili.git"
+    "url": "git+https://github.com/Qiliang/react-native-pili.git"
   },
   "keywords": [
     "React",
@@ -22,11 +22,11 @@
   "author": "buhe",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/buhe/react-native-pili/issues"
+    "url": "https://github.com/Qiliang/react-native-pili/issues"
   },
-  "homepage": "https://github.com/buhe/react-native-pili#readme",
+  "homepage": "https://github.com/Qiliang/react-native-pili#readme",
   "devDependencies": {
-    "react": "^0.14.8",
-    "react-native": "^0.24.1"
+    "react": "16.0.0-alpha.6",
+    "react-native": "0.44.0"
   }
 }

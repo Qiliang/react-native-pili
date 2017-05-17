@@ -48,7 +48,7 @@ class Player extends Component {
       onLoading: this._onLoading,
       onPaused: this._onPaused,
       onShutdown: this._onShutdown,
-      onError: this._onError,
+      onError1: this._onError,
       onPlaying: this._onPlaying,
     });
     return (
